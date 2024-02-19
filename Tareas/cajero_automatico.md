@@ -1,2 +1,2 @@
 
-![Red_Social](https://github.com/edumel20/Diagrama_Secuencia/assets/145054591/1801183d-0148-46f9-b53b-7a09aeb75fd1)
+![sistema_bancario](https://github.com/edumel20/Diagrama_Secuencia/assets/145054591/ca85568c-5c61-4262-9583-c113f52f8fbe)
